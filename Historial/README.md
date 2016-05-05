@@ -14,4 +14,6 @@
 
 * Documentacion de funciones, herramientas
 
-![Screenshot_2014-08-29-09-16-09](/Historial/Screenshot_2014-08-29-09-16-09.png)
+---
+![Screenshot_2014-08-29-09-16-09.png](/Historial/Screenshot_2014-08-29-09-16-09.png)
+---
