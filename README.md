@@ -21,11 +21,41 @@
 * HMI Delta DOP-B05S111
 
 ## Autores
-* emmanuel156
-* pedrohermon
+* <a href="http://www.github.com/emmanuel156">emmanuel156</a> <img src="https://avatars0.githubusercontent.com/u/15036095?v=3&s=50">
+* <a href="http://www.github.com/pedrohermon">pedrohermon</a> <img src="https://avatars0.githubusercontent.com/u/15159556?v=3&s=50">
 
 ## Comentarios
 * Aparte de las funciones básicas de arrancar y parar el compresor, el programa lleva la cuenta de horas de servicio para programar los mantenimientos al compresor. También se puede programar la hora y día de la semana de arranque y paro automático del compresor así como tener un historial de eventos del mismo.
+
+## Contenido
+* Carpeta de Diagramas
+	* Diagramas del proyecto
+		* Diagramas electricos
+		* Diagramas de bloques
+		* Dibujos
+* Carpeta de Documentos
+	* Documentos pensados para el usuario final
+		* Manuales de usuario
+		* Manuales de programacion
+* Carpeta de Fotos
+	* Fotos del proyecto antes, durante y despues del desarrollo del mismo
+		* Fotos
+		* Capturas de pantalla
+* Carpeta de Historial
+	* Documentacion del desarrollo del proyecto
+		* Hojas de datos de componentes
+		* Manuales de usuario de componentes
+		* Documentacion de funciones, herramientas
+* Carpeta de Programas
+	* Programas de Computadora, PLC, etc. 
+		* Codigos fuente
+		* Iconos, imagenes usados en los programas
+		* Archivos de configuracion de los programas
+		* Programas compilados
+* Carpeta de Pruebas
+	* Pruebas preliminares del proyecto
+		* Programas incompletos, o secciones de programas
+		* Modelos de componentes que se hayan probado
 
 ---
 ![IMG_20140828_112307_001.jpg](/Diagramas/IMG_20140828_112307_001.jpg)
@@ -35,6 +65,28 @@
 ![IMG_20140828_112349_376.jpg](/Diagramas/IMG_20140828_112349_376.jpg)
 ---
 ![IMG_20140828_112404_332.jpg](/Diagramas/IMG_20140828_112404_332.jpg)
+---
+![Captura de pantalla 2016-05-20 09.55.31.png](/Fotos/Captura de pantalla 2016-05-20 09.55.31.png)
+---
+![Captura de pantalla 2016-05-20 09.56.31.png](/Fotos/Captura de pantalla 2016-05-20 09.56.31.png)
+---
+![Captura de pantalla 2016-05-20 09.57.24.png](/Fotos/Captura de pantalla 2016-05-20 09.57.24.png)
+---
+![Captura de pantalla 2016-05-20 09.58.43.png](/Fotos/Captura de pantalla 2016-05-20 09.58.43.png)
+---
+![Captura de pantalla 2016-05-20 09.58.56.png](/Fotos/Captura de pantalla 2016-05-20 09.58.56.png)
+---
+![Captura de pantalla 2016-05-20 09.59.03.png](/Fotos/Captura de pantalla 2016-05-20 09.59.03.png)
+---
+![Captura de pantalla 2016-05-20 09.59.11.png](/Fotos/Captura de pantalla 2016-05-20 09.59.11.png)
+---
+![Captura de pantalla 2016-05-20 10.02.54.png](/Fotos/Captura de pantalla 2016-05-20 10.02.54.png)
+---
+![Captura de pantalla 2016-05-20 10.04.18.png](/Fotos/Captura de pantalla 2016-05-20 10.04.18.png)
+---
+![Captura de pantalla 2016-05-20 10.04.32.png](/Fotos/Captura de pantalla 2016-05-20 10.04.32.png)
+---
+![Captura de pantalla 2016-05-20 10.05.18.png](/Fotos/Captura de pantalla 2016-05-20 10.05.18.png)
 ---
 ![DSC03398.JPG](/Fotos/DSC03398.JPG)
 ---

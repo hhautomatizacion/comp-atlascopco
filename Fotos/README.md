@@ -13,6 +13,28 @@
 * Capturas de pantalla
 
 ---
+![Captura de pantalla 2016-05-20 09.55.31.png](/Fotos/Captura de pantalla 2016-05-20 09.55.31.png)
+---
+![Captura de pantalla 2016-05-20 09.56.31.png](/Fotos/Captura de pantalla 2016-05-20 09.56.31.png)
+---
+![Captura de pantalla 2016-05-20 09.57.24.png](/Fotos/Captura de pantalla 2016-05-20 09.57.24.png)
+---
+![Captura de pantalla 2016-05-20 09.58.43.png](/Fotos/Captura de pantalla 2016-05-20 09.58.43.png)
+---
+![Captura de pantalla 2016-05-20 09.58.56.png](/Fotos/Captura de pantalla 2016-05-20 09.58.56.png)
+---
+![Captura de pantalla 2016-05-20 09.59.03.png](/Fotos/Captura de pantalla 2016-05-20 09.59.03.png)
+---
+![Captura de pantalla 2016-05-20 09.59.11.png](/Fotos/Captura de pantalla 2016-05-20 09.59.11.png)
+---
+![Captura de pantalla 2016-05-20 10.02.54.png](/Fotos/Captura de pantalla 2016-05-20 10.02.54.png)
+---
+![Captura de pantalla 2016-05-20 10.04.18.png](/Fotos/Captura de pantalla 2016-05-20 10.04.18.png)
+---
+![Captura de pantalla 2016-05-20 10.04.32.png](/Fotos/Captura de pantalla 2016-05-20 10.04.32.png)
+---
+![Captura de pantalla 2016-05-20 10.05.18.png](/Fotos/Captura de pantalla 2016-05-20 10.05.18.png)
+---
 ![DSC03398.JPG](/Fotos/DSC03398.JPG)
 ---
 ![DSC03399.JPG](/Fotos/DSC03399.JPG)
