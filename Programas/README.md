@@ -10,7 +10,7 @@
 
 * Codigos fuente
 
-* Iconos, imagenes usados en los programas
+* Iconos e imagenes usados en los programas
 
 * Archivos de configuracion de los programas
 
