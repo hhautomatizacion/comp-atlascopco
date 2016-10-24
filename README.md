@@ -49,7 +49,7 @@
 * Carpeta de Programas
 	* Programas de Computadora, PLC, etc. 
 		* Codigos fuente
-		* Iconos, imagenes usados en los programas
+		* Iconos e imagenes usados en los programas
 		* Archivos de configuracion de los programas
 		* Programas compilados
 * Carpeta de Pruebas
@@ -127,6 +127,26 @@
 ![DSC03664.JPG](/Fotos/DSC03664.JPG)
 ---
 ![DSC03665.JPG](/Fotos/DSC03665.JPG)
+---
+![IMG_20160929_104734669.jpg](/Fotos/IMG_20160929_104734669.jpg)
+---
+![IMG_20160929_104744239.jpg](/Fotos/IMG_20160929_104744239.jpg)
+---
+![IMG_20160929_104755798.jpg](/Fotos/IMG_20160929_104755798.jpg)
+---
+![IMG_20160929_104802565.jpg](/Fotos/IMG_20160929_104802565.jpg)
+---
+![IMG_20160929_104828474.jpg](/Fotos/IMG_20160929_104828474.jpg)
+---
+![IMG_20160929_104832675.jpg](/Fotos/IMG_20160929_104832675.jpg)
+---
+![IMG_20160929_104839375.jpg](/Fotos/IMG_20160929_104839375.jpg)
+---
+![IMG_20160929_104923336.jpg](/Fotos/IMG_20160929_104923336.jpg)
+---
+![IMG_20160929_105039799.jpg](/Fotos/IMG_20160929_105039799.jpg)
+---
+![solarized-palette.png](/Fotos/solarized-palette.png)
 ---
 ![Screenshot_2014-08-29-09-16-09.png](/Historial/Screenshot_2014-08-29-09-16-09.png)
 ---
