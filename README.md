@@ -58,14 +58,6 @@
 		* Modelos de componentes que se hayan probado
 
 ---
-![IMG_20140828_112307_001.jpg](/Diagramas/IMG_20140828_112307_001.jpg)
----
-![IMG_20140828_112338_461.jpg](/Diagramas/IMG_20140828_112338_461.jpg)
----
-![IMG_20140828_112349_376.jpg](/Diagramas/IMG_20140828_112349_376.jpg)
----
-![IMG_20140828_112404_332.jpg](/Diagramas/IMG_20140828_112404_332.jpg)
----
 ![Captura de pantalla 2016-05-20 09.55.31.png](/Fotos/Captura de pantalla 2016-05-20 09.55.31.png)
 ---
 ![Captura de pantalla 2016-05-20 09.56.31.png](/Fotos/Captura de pantalla 2016-05-20 09.56.31.png)
