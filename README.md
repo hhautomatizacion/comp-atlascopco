@@ -21,8 +21,8 @@
 * HMI Delta DOP-B05S111
 
 ## Autores
-* <a href="http://www.github.com/emmanuel156">emmanuel156</a> <img src="https://avatars0.githubusercontent.com/u/15036095?v=3" height="32" width="32">
-* <a href="http://www.github.com/pedrohermon">pedrohermon</a> <img src="https://avatars0.githubusercontent.com/u/15159556?v=3" height="32" width="32">
+* <a href="http://www.github.com/emmanuel156">emmanuel156</a> <img src="https://avatars3.githubusercontent.com/u/15036095?v=4" height="32" width="32">
+* <a href="http://www.github.com/pedrohermon">pedrohermon</a> <img src="https://avatars3.githubusercontent.com/u/15159556?v=4" height="32" width="32">
 
 ## Comentarios
 * Aparte de las funciones básicas de arrancar y parar el compresor, el programa lleva la cuenta de horas de servicio para programar los mantenimientos al compresor. También se puede programar la hora y día de la semana de arranque y paro automático del compresor así como tener un historial de eventos del mismo.
