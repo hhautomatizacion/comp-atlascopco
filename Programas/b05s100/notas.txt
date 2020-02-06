@@ -1,0 +1,4 @@
+No editar!
+
+Editar la version para dop-b05s111 y de ahi convertir.
+Reducir la cantidad de "history buffer" para que no marque error de que no tiene suficiente SRAM

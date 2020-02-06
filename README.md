@@ -148,3 +148,5 @@
 ---
 ![kb1-50pwd-2.jpg](/Historial/kb1-50pwd-2.jpg)
 ---
+![MOJkJ.jpg](/Pruebas/simulacompresor/MOJkJ.jpg)
+---

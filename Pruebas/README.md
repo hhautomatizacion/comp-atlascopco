@@ -11,3 +11,7 @@
 * Programas incompletos, o secciones de programas
 
 * Modelos de componentes que se hayan probado
+
+---
+![MOJkJ.jpg](/Pruebas/simulacompresor/MOJkJ.jpg)
+---
